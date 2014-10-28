@@ -12,5 +12,6 @@ Gnome 3.14
 
 ##Installation
 Dans le répertoire, exécuter les commandes suivantes:
-		$ sudo chmod +x setup.sh
-		$ sudo ./setup.sh
+
+    $ sudo chmod +x setup.sh
+    $ sudo ./setup.sh
